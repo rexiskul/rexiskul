@@ -8,13 +8,6 @@
   Building accessible, pixel-perfect, and highly functional digital interfaces.
 </p>
 
-<p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-github-insights">Insights</a> •
-  <a href="#-connect">Connect</a>
-</p>
-
 ---
 
 ### 💫 About Me
@@ -36,26 +29,7 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pororochan&theme=tokyonight&area=true&hide_border=true" />
-</p>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=pororochan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://streak-stats.demolab.com/?user=pororochan&theme=tokyonight&hide_border=true" height="180px"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📬 Connect
+### 📬 Connect With Me
 
 <p align="center">
   <a href="https://portfolio-v2-ten-puce.vercel.app/"><b>🌐 Portfolio</b></a> • 
