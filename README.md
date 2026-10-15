@@ -15,7 +15,7 @@
 - 🚀 Currently deep diving into **Next.js, Vue.js, and Three.js** while mastering advanced **Tailwind CSS** design patterns.
 - 🤝 Focused on improving **accessibility & usability** in modern, component-based architectures.
 - 👯 Open for collaboration on meaningful **Full-stack projects** (from initial wireframes to production deployment).
-- 🌐 Explore my live work at [**portfolio-v2-ten-puce.vercel.app**](https://rexxxxx.my.id/)
+- 🌐 Explore my live work at [**Portfolio Web**](https://rexxxxx.my.id/)
 
 ---
 
