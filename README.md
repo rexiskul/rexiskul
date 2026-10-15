@@ -32,7 +32,7 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-v2-ten-puce.vercel.app/"><b>🌐 Portfolio</b></a> • 
+  <a href="https://rexxxxx.my.id/"><b>🌐 Portfolio</b></a> • 
   <a href="https://linkedin.com/in/humancodev08"><b>LinkedIn</b></a> • 
   <a href="https://dribbble.com/rekshowork"><b>Dribbble</b></a> • 
   <a href="https://instagram.com/ego.deathstar"><b>Instagram</b></a> • 
