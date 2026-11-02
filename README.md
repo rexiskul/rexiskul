@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-- 🚀 Currently deep diving into **Next.js, Vue.js, and Three.js** while mastering advanced **Tailwind CSS** design patterns.
+- 🚀 Currently deep diving into **Full-stack development with Java Spring Boot & React**, as well as **Next.js, Vue.js, and Three.js** while mastering advanced **Tailwind CSS** design patterns.
 - 🤝 Focused on improving **accessibility & usability** in modern, component-based architectures.
 - 👯 Open for collaboration on meaningful **Full-stack projects** (from initial wireframes to production deployment).
 - 🌐 Explore my live work at [**Portfolio Web**](https://rexxxxx.my.id/)
@@ -25,7 +25,7 @@
 `Figma` `Framer` `React.js` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS`
 
 **Backend & Databases**
-`Node.js` `PHP` `Laravel` `CodeIgniter 4` `Python` `MySQL` `MongoDB`
+`Java` `Spring Boot` `Node.js` `PHP` `Laravel` `CodeIgniter 4` `Python` `MySQL` `MongoDB`
 
 ---
 
